@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://thumb.r2.moele.me/t/20385/20375214/a-0084.jpg);
+
+}
+.conntannier{
+    max-width: 900px;
+    width: 100%;
+    background: rgb(228, 98, 195);
+    padding: 25px 30px;
+    border-radius: 5px;
+}
+.conntannier .title{
+    font-size: 25px;
+    font-weight: 500;
+    position: relative;
+
+}
+.userdetalist .inputbox input:focus,
+.userdetalist .inputbox input:valid{
+    border-color:  rgb(238, 234, 10);
+}

@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.top{
+    font-size: 22px;
+    font-family: monospace;
+
+    text-align: center;
+}
+.header_item_1{
+    padding-top: 20px;
+    font-family: Courier New, monospace;
+    font-size: 20px;
+    padding-left: 35px;
+    
+}
+.header_item_2{
+    padding: 15px 0;
+    font-weight: 900;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.all{
+    padding-left: 400px;
+    padding-top: 100px;
+    display: inline-block;
+    
+}
+.body li{
+    padding: 5px 0;
+    list-style: none;
+    font-family: monospace;
+    font-size: 15px;
+    
+}
+.fa-brands {
+    color: blueviolet;
+    padding-left: 50px;
+    
+}
+.body button{
+    width: 100%;
+    padding: 14px 28PX;
+    background-color: blueviolet;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 40px;
+    margin-top: 50px;
+    cursor: pointer;
+    font-weight: bold;
+    max-width: 250px;
+    
+    
+}
+.body button:hover{
+box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.new_tag{
+    display: inline-block;
+}
+.new_tag2{
+    display: inline-block;
+}
