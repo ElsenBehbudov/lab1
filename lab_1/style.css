@@ -38,6 +38,7 @@
 .fa-brands {
     color: blueviolet;
     padding-left: 50px;
+    font-size: 40px;
     
 }
 .body button{
@@ -54,13 +55,22 @@
     max-width: 250px;
     
     
+    
 }
 .body button:hover{
 box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
-.new_tag{
+.new_tag_1{
     display: inline-block;
 }
-.new_tag2{
+.new_tag_2 {
     display: inline-block;
 }
+.new_tag_2 button{
+    background-color: rgb(50, 97, 252);
+}
+.new_tag_2 i{
+   color: rgb(50, 97, 252);
+   font-size: 40px;
+}
+
